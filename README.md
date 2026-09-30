@@ -1,9 +1,8 @@
-### 👋 Olá! Eu sou o Juan Gonçalves, desenvolver no início de carreira.
-
+### 👋 Olá! Eu sou o Juan Gonçalves, desenvolver em transição.
 ##
 
 ### 🚀Sobre mim<br>
-O meu foco primário foi na área de backend onde me interessei mais, hoje em dia começei a gostar mais e ter mais interesse sobre a área de frontend, onde estou procurando um estágio/júnior na área de full stack developer.
+Analista de Suporte de TI | Desenvolvedor em transição | Python • SQL • Power BI • JavaScript
 
 
 ##
