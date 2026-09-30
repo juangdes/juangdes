@@ -1,5 +1,4 @@
-### 👋 Olá! Eu sou o Juan Gonçalves, desenvolver em transição.
-##
+### 👋 Olá! Eu sou o Juan Gonçalves.
 
 ### 🚀Sobre mim<br>
 Analista de Suporte de TI | Desenvolvedor em transição | Python • SQL • Power BI • JavaScript
