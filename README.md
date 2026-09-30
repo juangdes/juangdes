@@ -28,11 +28,6 @@ Analista de Suporte de TI | Desenvolvedor em transição | Python • SQL • Po
   <a href="https://www.linkedin.com/in/juangdes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
-### 📊 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juangdes&layout=compact)
 
 
 
